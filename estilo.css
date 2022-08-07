@@ -43,14 +43,10 @@ section#redes-sociais {
 }
 
 #redes-sociais img {    
-    width: 50px;
+    width: 70px;
     padding: 10px;
     border-radius: 50%;    
     box-sizing: border-box;
-}
-
-#redes-sociais a {
-    width: vw;
 }
 
 
